@@ -1,13 +1,13 @@
 ---
-title: 'Template Chapter 1'
-description: 'This is a template chapter.'
+title: Introducción
+description: 'Si ya has usado R para tu trabajo, es hora de que realices los informes finales directamente con las herramientas que Rstudio'
 ---
 
 ## An exercise title written in sentence case
 
 ```yaml
 type: NormalExercise
-key: fdbf970600
+key: c0077084c4
 lang: r
 xp: 100
 skills: 1
@@ -58,3 +58,16 @@ The Instructions that follow should be in bullet point form with clear guidance 
 # Update this to something more informative.
 success_msg("Some praise! Then reinforce a learning objective from the exercise.")
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 3347e26c0b
+xp: 50
+```
+
+`@projector_key`
+0c9438df73325eb733647b73acf02e2c
